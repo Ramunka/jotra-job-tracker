@@ -1,0 +1,50 @@
+{
+  "gemini_model": "gemini-3.8-flash",
+  "profiles": [
+    {
+      "name": "example",
+      "google_sheet_id": "YOUR_GOOGLE_SHEET_ID",
+      "worksheet_name": "Sheet1",
+      "TEST_worksheet_name": "test",
+      "dedupe_keys": ["position", "employer"],
+      "columns": [
+        {"header": "date added", "source": "date_added"},
+        {"header": "domain", "source": "domain"},
+        {"header": "employer", "source": "employer"},
+        {"header": "position", "source": "position"},
+        {"header": "location", "source": "location"},
+        {"header": "posted or suggested salary", "source": "salary"},
+        {"header": "key required qualifications", "source": "qualifications"},
+        {"header": "short summary of duties", "source": "summary"},
+        {"header": "direct link", "source": "link"},
+        {"header": "search link", "source": "search_link"},
+        {"header": "STATUS", "source": "status"},
+        {"header": "COMMENTS", "source": "comments"},
+        {"header": "fit score", "source": "fit_score", "description": "a 1-10 score for how well this job matches the candidate's attached CV (required qualifications vs. their actual skills/experience); use the full range honestly, not just 7-9"},
+        {"header": "fit reason", "source": "fit_reason", "description": "a couple of very short reasons for the score, comma-separated, a few words each — concrete gaps (e.g. \"no .NET\", \"no PhD\") or strengths (e.g. \"strong Python match\"). Keep it extremely short: at most 2-3 short reasons, never a sentence."}
+      ],
+      "params": {}
+    },
+    {
+      "name": "example-shifts",
+      "google_sheet_id": "YOUR_OTHER_GOOGLE_SHEET_ID",
+      "worksheet_name": "Sheet1",
+      "TEST_worksheet_name": "test",
+      "dedupe_keys": ["position", "employer"],
+      "gemini_prompt_file": "prompts/example.txt",
+      "columns": [
+        {"header": "date added", "source": "date_added"},
+        {"header": "employer", "source": "employer"},
+        {"header": "position", "source": "position"},
+        {"header": "location", "source": "location"},
+        {"header": "salary", "source": "salary"},
+        {"header": "shift", "source": "shift", "description": "the work shift or schedule for the role, if mentioned (e.g. \"Day shift\", \"Night shift\", \"Weekends\")"},
+        {"header": "direct link", "source": "link"},
+        {"header": "search link", "source": "search_link"},
+        {"header": "STATUS", "source": "status"},
+        {"header": "COMMENTS", "source": "comments"}
+      ],
+      "params": {"gemini_temperature": 0.4}
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[project]
+name = "jotra"
+version = "1.0.0"
+description = "LLM-powered job tracker: finds, extracts, scores and dedupes job postings into a Google Sheet."
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+authors = [{ name = "Roman Nebrat" }]
+
+[tool.ruff]
+line-length = 110
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+ignore = ["E501"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["E402"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

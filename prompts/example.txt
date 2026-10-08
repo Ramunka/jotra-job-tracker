@@ -1,0 +1,15 @@
+Search the most relevant US job sites for active job postings matching the criteria below.
+
+- Only postings published within the last 5 days. Explicitly check the "posted" date or "N days ago".
+- Target roles: Data Analyst, Data Scientist, Machine Learning Engineer, Software Engineer, QA / Test Engineer, or similar.
+- Level: entry-level, junior, or new-grad. Exclude senior, lead, staff, and "level II/III" roles.
+- Location: remote within the US, or on-site/hybrid in any major US metro area.
+
+For each job, return as plain text:
+- Employer
+- Position
+- Location
+- Posted or estimated salary
+- Key required qualifications
+- Short summary of duties
+- One direct link to the posting itself (not a search results page). If you cannot find a verified direct link, write NONE.

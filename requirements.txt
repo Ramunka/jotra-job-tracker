@@ -1,0 +1,5 @@
+anthropic>=1.11,<2
+google-genai>=2.26,<3
+google-auth>=2.59,<3
+gspread>=6.2,<7
+python-dotenv>=1.2,<2

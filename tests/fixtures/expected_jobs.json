@@ -1,0 +1,142 @@
+[
+  {
+    "domain": "Data Science, Software Engineering, and Quantitative Analytics",
+    "employer": "Anduril Industries",
+    "position": "2026 Early Career Software Engineer",
+    "location": "Seattle, WA / California Hubs",
+    "salary": "$115,000 – $135,000 USD",
+    "qualifications": "Bachelor's degree in Computer Science, Applied Math, or related STEM discipline graduating in 2026; proficiency in C++, Go, Rust, Java, or Python; understanding of algorithms, data structures, and cloud infrastructure. Must be a U.S. Person (LPR/Citizen) due to ITAR/EAR export control regulations.",
+    "summary": "Write production software to scale defense technology capabilities; collaborate across engineering teams to build and test backend system functionality; construct automated operational monitoring metrics and triage software failures.",
+    "link": "https://job-boards.greenhouse.io/andurilindustries/jobs/4802146007"
+  },
+  {
+    "domain": "Data Science, Software Engineering, and Quantitative Analytics",
+    "employer": "DoorDash",
+    "position": "Software Engineer I, Entry-Level (Graduation: Fall 2026 – Summer 2027)",
+    "location": "Seattle, WA / San Francisco, CA / Sunnyvale, CA / Los Angeles, CA / New York, NY",
+    "salary": "$120,000 – $155,000 USD (Estimated Base)",
+    "qualifications": "Bachelor's or Master's in Computer Science or related discipline graduating between Fall 2026 and Summer 2027; experience with Python, Java, or Kotlin; background in algorithms, SQL databases, version control, and unit testing.",
+    "summary": "Develop, maintain, and deploy production-ready web application software; write unit tests and participate in peer code reviews; analyze and optimize backend system efficiency and scalability.",
+    "link": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709"
+  },
+  {
+    "domain": "Data Science, Software Engineering, and Quantitative Analytics",
+    "employer": "Garner Health",
+    "position": "Associate Software Engineer",
+    "location": "New York City, NY",
+    "salary": "$150,000 USD Base",
+    "qualifications": "BS or MS in Computer Science or related STEM field (graduating 2026/2027); experience in JavaScript/React, Python, or Node.js; proficiency with PostgreSQL databases and cloud environments (AWS, Docker).",
+    "summary": "Build, optimize, and maintain healthcare software systems; integrate AI coding tools into development workflows; enforce secure coding practices and manage database schemas.",
+    "link": "https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004"
+  },
+  {
+    "domain": "Data Science, Software Engineering, and Quantitative Analytics",
+    "employer": "Pipe17",
+    "position": "Junior Software Engineer",
+    "location": "Seattle, WA",
+    "salary": "$79,000 – $111,000 USD",
+    "qualifications": "Educational background in Computer Science or software engineering; experience with JavaScript/TypeScript, REST/GraphQL APIs; familiarity with AWS, Docker, CI/CD pipelines, and SQL/NoSQL databases.",
+    "summary": "Design, build, and maintain lightweight APIs, automation workflows, and web utilities in TypeScript/Node.js; construct AI tool integrations; troubleshoot platform and system integration issues across environments.",
+    "link": "https://job-boards.greenhouse.io/pipe17/jobs/4717950005"
+  },
+  {
+    "domain": "Data Science, Software Engineering, and Quantitative Analytics",
+    "employer": "Akuna Capital",
+    "position": "Software Engineer (Entry-Level) - Python",
+    "location": "Chicago, IL",
+    "salary": "$145,000+ USD Base (Plus Discretionary Bonus)",
+    "qualifications": "Degree in Computer Science, Mathematics, Physics, or Quantitative STEM field; strong Python skills; solid grasp of data structures, object-oriented design, and quantitative algorithm optimization.",
+    "summary": "Expand hybrid-cloud data platforms; build batch and streaming data pipelines using Python, Kafka, and Kubernetes; write automated data validation test suites for trading infrastructure.",
+    "link": "https://job-boards.greenhouse.io/akunacapital"
+  },
+  {
+    "domain": "Data Science, Software Engineering, and Quantitative Analytics",
+    "employer": "DMC, Inc.",
+    "position": "Entry Level Software Engineer (UW Seattle 2026 Cohort)",
+    "location": "Seattle, WA / Chicago, IL",
+    "salary": "$87,500 – $97,500 USD",
+    "qualifications": "Bachelor's degree in Computer Science or related field (minimum 3.4 GPA); object-oriented programming proficiency; exposure to React, .NET, SQL, and cloud computing concepts.",
+    "summary": "Develop custom backend and web applications using .NET, SQL, and React; troubleshoot application runtime issues; implement automated testing routines and code quality standards.",
+    "link": "https://job-boards.greenhouse.io/dmcengineering_campus/jobs/5397600008"
+  },
+  {
+    "domain": "Data Science, Software Engineering, and Quantitative Analytics",
+    "employer": "Rothera Markets",
+    "position": "Associate Software Engineer",
+    "location": "Chicago, IL / New York, NY",
+    "salary": "$80,000 – $100,000 USD",
+    "qualifications": "Bachelor's degree in Computer Science, Software Engineering, or related discipline; strong proficiency in Java; academic or practical exposure to microservices, Kafka event streaming, and PostgreSQL.",
+    "summary": "Build and maintain cloud-based distributed systems for financial transaction clearing; write backend Java code for streaming event architectures; monitor system health logs and telemetry metrics.",
+    "link": "https://job-boards.greenhouse.io/rotheramarketsllc/jobs/4401091009"
+  },
+  {
+    "domain": "Data Science, Software Engineering, and Quantitative Analytics",
+    "employer": "Indicium AI",
+    "position": "Forward Deployed Software Engineer",
+    "location": "New York, NY",
+    "salary": "$110,000 – $140,000 USD (Estimated Base)",
+    "qualifications": "Degree in Computer Science, Data Science, or Quantitative STEM discipline; proficiency in Python, SQL, REST APIs, and modern cloud deployment frameworks.",
+    "summary": "Engineer custom AI software integrations and data connectors; transform client data streams into low-latency API endpoints; deploy and monitor LLM infrastructure on AWS/GCP platforms.",
+    "link": "https://job-boards.eu.greenhouse.io/indiciumai/jobs/4853092101"
+  },
+  {
+    "domain": "Data Science, Software Engineering, and Quantitative Analytics",
+    "employer": "Paxos",
+    "position": "Associate Data Analyst",
+    "location": "New York, NY / California",
+    "salary": "$90,000 – $115,000 USD (Estimated Base)",
+    "qualifications": "Degree in CS, Mathematics, Statistics, or quantitative field; proficiency in SQL and Python/R; experience with relational database modeling and analytical dashboards.",
+    "summary": "Query transaction databases to construct analytical dashboards; execute statistical modeling on financial asset movements; automate data processing workflows via Python scripts.",
+    "link": "https://job-boards.greenhouse.io/paxos"
+  },
+  {
+    "domain": "Data Science, Software Engineering, and Quantitative Analytics",
+    "employer": "Applied Intuition",
+    "position": "Software Engineer - New Grad (2026)",
+    "location": "Sunnyvale, CA",
+    "salary": "$130,000 – $160,000 USD (Estimated Base)",
+    "qualifications": "Degree in Computer Science or related STEM field graduating in 2026; fluency in C++, Python, or Rust; strong background in algorithms and computational geometry.",
+    "summary": "Build high-performance simulation software engines; implement sensor modeling and physical simulation algorithms; optimize code execution for autonomous vehicle testing environments.",
+    "link": "http://job-boards.greenhouse.io/appliedintuition/jobs/4661670005"
+  },
+  {
+    "domain": "Data Science, Software Engineering, and Quantitative Analytics",
+    "employer": "Thatch",
+    "position": "Data Scientist, Analytics",
+    "location": "San Francisco, CA / New York, NY",
+    "salary": "$160,000 – $200,000 USD",
+    "qualifications": "Advanced SQL skills; experience with dbt, Snowflake, or modern data stack transformations; working knowledge of Python for analytical modeling.",
+    "summary": "Develop analytical data models and automated dbt transformations; perform statistical modeling for financial risk estimation; build BI dashboards linking product usage with financial telemetry.",
+    "link": "https://job-boards.greenhouse.io/thatch/jobs/4944171008"
+  },
+  {
+    "domain": "Data Science, Software Engineering, and Quantitative Analytics",
+    "employer": "Databricks",
+    "position": "Software Engineer - Backend",
+    "location": "New York City, NY / Seattle, WA",
+    "salary": "$135,000 – $170,000 USD (Estimated Base)",
+    "qualifications": "Degree in Computer Science, Applied Math, or related STEM field; proficiency in Java, Scala, Python, or C++; understanding of distributed systems and database engine internals.",
+    "summary": "Write high-throughput backend services for the unified data platform; engineer distributed storage interfaces; construct automated system integration testing pipelines.",
+    "link": "https://job-boards.greenhouse.io/databricks/jobs/8535421002"
+  },
+  {
+    "domain": "Earth Systems, Atmospheric Data, and Environmental Technology",
+    "employer": "Planet Labs",
+    "position": "Data Analyst",
+    "location": "San Francisco, CA",
+    "salary": "$100,300 – $125,400 USD",
+    "qualifications": "Bachelor's degree in Computer Science, Mathematics, or Statistics; expertise in SQL and Python; experience with git version control and enterprise cloud platforms.",
+    "summary": "Model and process satellite telemetry datasets; construct automated data pipelines using Python and dbt; create analytical dashboards to evaluate satellite collection performance.",
+    "link": "https://job-boards.greenhouse.io/planetlabs/jobs/8128721"
+  },
+  {
+    "domain": "Earth Systems, Atmospheric Data, and Environmental Technology",
+    "employer": "Planet Labs",
+    "position": "Software Engineer, Satellite Operations & Telemetry",
+    "location": "US Remote / California Office",
+    "salary": "$110,000 – $140,000 USD (Estimated Base)",
+    "qualifications": "Degree in Computer Science or related STEM discipline; strong Python skills; experience with Linux systems, PostgreSQL databases, and AWS/GCP cloud services.",
+    "summary": "Maintain and automate software services controlling orbital satellite constellations; design telemetry processing scripts; build backend interfaces for spacecraft operators.",
+    "link": "https://job-boards.greenhouse.io/planetlabs/jobs/8160328"
+  }
+]

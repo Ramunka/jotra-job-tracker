@@ -1,0 +1,21 @@
+# Secrets
+.env
+credentials.json
+
+# Personal configuration and data (copy the *.example files to create your own)
+profiles.json
+prompts/cv/
+prompts/*.txt
+!prompts/example.txt
+prompts/fit_score/*.txt
+!prompts/fit_score/example.txt
+gemini_text.txt
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/

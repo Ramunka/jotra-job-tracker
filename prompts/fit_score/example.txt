@@ -1,0 +1,7 @@
+The candidate's CV is attached as a PDF. Use it to fill in "fit_score" and "fit_reason".
+
+- fit_score: 1-10. Use the full range honestly, leaning clearly toward the good or bad side rather than clustering around 7-9.
+- Hard cutoff: if a posting requires something the candidate categorically cannot meet (e.g. a citizenship or security-clearance requirement the CV doesn't show), score 1-2 regardless of everything else. A hard requirement the candidate can't satisfy isn't offset by other strengths.
+- Overqualification (more seniority or years of experience than required) is NOT a negative on its own. But it also does NOT cover for a genuine gap elsewhere (a missing required skill, degree, etc.) — score that gap on its own merits.
+- Consistency: keep your characterization of the candidate's skills (e.g. "strong Python", "basic C++ only") the same across every job in this batch. The candidate's background doesn't change from job to job — only how well it matches each posting does. Base it on concrete facts from the CV (years of experience, named projects/technologies, certifications), and don't assume skills the CV doesn't demonstrate.
+- fit_reason: a couple of very short, comma-separated reasons (a few words each), each prefixed with "P:" for a pro or "C:" for a con, e.g. "P: strong Python match, C: no .NET". Never a full sentence.

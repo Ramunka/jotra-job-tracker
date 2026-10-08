@@ -1,0 +1,130 @@
+Domain 1: Data Science, Software Engineering, and Quantitative Analytics
+
+1. Anduril Industries – 2026 Early Career Software Engineer
+Employer: Anduril Industries
+Position: 2026 Early Career Software Engineer
+Location: Seattle, WA / California Hubs
+Posted or Estimated Salary: $115,000 – $135,000 USD
+Key Required Qualifications: Bachelor's degree in Computer Science, Applied Math, or related STEM discipline graduating in 2026; proficiency in C++, Go, Rust, Java, or Python; understanding of algorithms, data structures, and cloud infrastructure. Must be a U.S. Person (LPR/Citizen) due to ITAR/EAR export control regulations.
+Short Summary of Duties: Write production software to scale defense technology capabilities; collaborate across engineering teams to build and test backend system functionality; construct automated operational monitoring metrics and triage software failures.
+Verified Job Posting Link: https://job-boards.greenhouse.io/andurilindustries/jobs/4802146007
+
+2. DoorDash – Software Engineer I, Entry-Level
+Employer: DoorDash
+Position: Software Engineer I, Entry-Level (Graduation: Fall 2026 – Summer 2027)
+Location: Seattle, WA / San Francisco, CA / Sunnyvale, CA / Los Angeles, CA / New York, NY
+Posted or Estimated Salary: $120,000 – $155,000 USD (Estimated Base)
+Key Required Qualifications: Bachelor's or Master's in Computer Science or related discipline graduating between Fall 2026 and Summer 2027; experience with Python, Java, or Kotlin; background in algorithms, SQL databases, version control, and unit testing.
+Short Summary of Duties: Develop, maintain, and deploy production-ready web application software; write unit tests and participate in peer code reviews; analyze and optimize backend system efficiency and scalability.
+Verified Job Posting Link: https://job-boards.greenhouse.io/doordashusa/jobs/8163709
+
+3. Garner Health – Associate Software Engineer
+Employer: Garner Health
+Position: Associate Software Engineer
+Location: New York City, NY
+Posted or Estimated Salary: $150,000 USD Base
+Key Required Qualifications: BS or MS in Computer Science or related STEM field (graduating 2026/2027); experience in JavaScript/React, Python, or Node.js; proficiency with PostgreSQL databases and cloud environments (AWS, Docker).
+Short Summary of Duties: Build, optimize, and maintain healthcare software systems; integrate AI coding tools into development workflows; enforce secure coding practices and manage database schemas.
+Verified Job Posting Link: https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004
+
+4. Pipe17 – Junior Software Engineer
+Employer: Pipe17
+Position: Junior Software Engineer
+Location: Seattle, WA
+Posted or Estimated Salary: $79,000 – $111,000 USD
+Key Required Qualifications: Educational background in Computer Science or software engineering; experience with JavaScript/TypeScript, REST/GraphQL APIs; familiarity with AWS, Docker, CI/CD pipelines, and SQL/NoSQL databases.
+Short Summary of Duties: Design, build, and maintain lightweight APIs, automation workflows, and web utilities in TypeScript/Node.js; construct AI tool integrations; troubleshoot platform and system integration issues across environments.
+Verified Job Posting Link: https://job-boards.greenhouse.io/pipe17/jobs/4717950005
+
+5. Akuna Capital – Software Engineer (Entry-Level) - Python
+Employer: Akuna Capital
+Position: Software Engineer (Entry-Level) - Python
+Location: Chicago, IL
+Posted or Estimated Salary: $145,000+ USD Base (Plus Discretionary Bonus)
+Key Required Qualifications: Degree in Computer Science, Mathematics, Physics, or Quantitative STEM field; strong Python skills; solid grasp of data structures, object-oriented design, and quantitative algorithm optimization.
+Short Summary of Duties: Expand hybrid-cloud data platforms; build batch and streaming data pipelines using Python, Kafka, and Kubernetes; write automated data validation test suites for trading infrastructure.
+Verified Job Posting Link: https://job-boards.greenhouse.io/akunacapital
+
+6. DMC Engineering – Entry Level Software Engineer
+Employer: DMC, Inc.
+Position: Entry Level Software Engineer (UW Seattle 2026 Cohort)
+Location: Seattle, WA / Chicago, IL
+Posted or Estimated Salary: $87,500 – $97,500 USD
+Key Required Qualifications: Bachelor's degree in Computer Science or related field (minimum 3.4 GPA); object-oriented programming proficiency; exposure to React, .NET, SQL, and cloud computing concepts.
+Short Summary of Duties: Develop custom backend and web applications using .NET, SQL, and React; troubleshoot application runtime issues; implement automated testing routines and code quality standards.
+Verified Job Posting Link: https://job-boards.greenhouse.io/dmcengineering_campus/jobs/5397600008
+
+7. Rothera Markets – Associate Software Engineer
+Employer: Rothera Markets
+Position: Associate Software Engineer
+Location: Chicago, IL / New York, NY
+Posted or Estimated Salary: $80,000 – $100,000 USD
+Key Required Qualifications: Bachelor's degree in Computer Science, Software Engineering, or related discipline; strong proficiency in Java; academic or practical exposure to microservices, Kafka event streaming, and PostgreSQL.
+Short Summary of Duties: Build and maintain cloud-based distributed systems for financial transaction clearing; write backend Java code for streaming event architectures; monitor system health logs and telemetry metrics.
+Verified Job Posting Link: https://job-boards.greenhouse.io/rotheramarketsllc/jobs/4401091009
+
+8. Indicium AI – Forward Deployed Software Engineer
+Employer: Indicium AI
+Position: Forward Deployed Software Engineer
+Location: New York, NY
+Posted or Estimated Salary: $110,000 – $140,000 USD (Estimated Base)
+Key Required Qualifications: Degree in Computer Science, Data Science, or Quantitative STEM discipline; proficiency in Python, SQL, REST APIs, and modern cloud deployment frameworks.
+Short Summary of Duties: Engineer custom AI software integrations and data connectors; transform client data streams into low-latency API endpoints; deploy and monitor LLM infrastructure on AWS/GCP platforms.
+Verified Job Posting Link: https://job-boards.eu.greenhouse.io/indiciumai/jobs/4853092101
+
+9. Paxos – Associate Data Analyst
+Employer: Paxos
+Position: Associate Data Analyst
+Location: New York, NY / California
+Posted or Estimated Salary: $90,000 – $115,000 USD (Estimated Base)
+Key Required Qualifications: Degree in CS, Mathematics, Statistics, or quantitative field; proficiency in SQL and Python/R; experience with relational database modeling and analytical dashboards.
+Short Summary of Duties: Query transaction databases to construct analytical dashboards; execute statistical modeling on financial asset movements; automate data processing workflows via Python scripts.
+Verified Job Posting Link: https://job-boards.greenhouse.io/paxos
+
+10. Applied Intuition – Software Engineer - New Grad
+Employer: Applied Intuition
+Position: Software Engineer - New Grad (2026)
+Location: Sunnyvale, CA
+Posted or Estimated Salary: $130,000 – $160,000 USD (Estimated Base)
+Key Required Qualifications: Degree in Computer Science or related STEM field graduating in 2026; fluency in C++, Python, or Rust; strong background in algorithms and computational geometry.
+Short Summary of Duties: Build high-performance simulation software engines; implement sensor modeling and physical simulation algorithms; optimize code execution for autonomous vehicle testing environments.
+Verified Job Posting Link: http://job-boards.greenhouse.io/appliedintuition/jobs/4661670005
+
+11. Thatch – Data Scientist, Analytics
+Employer: Thatch
+Position: Data Scientist, Analytics
+Location: San Francisco, CA / New York, NY
+Posted or Estimated Salary: $160,000 – $200,000 USD
+Key Required Qualifications: Advanced SQL skills; experience with dbt, Snowflake, or modern data stack transformations; working knowledge of Python for analytical modeling.
+Short Summary of Duties: Develop analytical data models and automated dbt transformations; perform statistical modeling for financial risk estimation; build BI dashboards linking product usage with financial telemetry.
+Verified Job Posting Link: https://job-boards.greenhouse.io/thatch/jobs/4944171008
+
+12. Databricks – Software Engineer - Backend
+Employer: Databricks
+Position: Software Engineer - Backend
+Location: New York City, NY / Seattle, WA
+Posted or Estimated Salary: $135,000 – $170,000 USD (Estimated Base)
+Key Required Qualifications: Degree in Computer Science, Applied Math, or related STEM field; proficiency in Java, Scala, Python, or C++; understanding of distributed systems and database engine internals.
+Short Summary of Duties: Write high-throughput backend services for the unified data platform; engineer distributed storage interfaces; construct automated system integration testing pipelines.
+Verified Job Posting Link: https://job-boards.greenhouse.io/databricks/jobs/8535421002
+
+Domain 2: Earth Systems, Atmospheric Data, and Environmental Technology
+(Strictly restricted to roles requiring degrees in Math, Statistics, or CS; excluding positions requiring GIS experience or degrees in meteorology/earth sciences.)
+
+13. Planet Labs – Data Analyst
+Employer: Planet Labs
+Position: Data Analyst
+Location: San Francisco, CA
+Posted or Estimated Salary: $100,300 – $125,400 USD
+Key Required Qualifications: Bachelor's degree in Computer Science, Mathematics, or Statistics; expertise in SQL and Python; experience with git version control and enterprise cloud platforms.
+Short Summary of Duties: Model and process satellite telemetry datasets; construct automated data pipelines using Python and dbt; create analytical dashboards to evaluate satellite collection performance.
+Verified Job Posting Link: https://job-boards.greenhouse.io/planetlabs/jobs/8128721
+
+14. Planet Labs – Software Engineer (Satellite Operations Systems)
+Employer: Planet Labs
+Position: Software Engineer, Satellite Operations & Telemetry
+Location: US Remote / California Office
+Posted or Estimated Salary: $110,000 – $140,000 USD (Estimated Base)
+Key Required Qualifications: Degree in Computer Science or related STEM discipline; strong Python skills; experience with Linux systems, PostgreSQL databases, and AWS/GCP cloud services.
+Short Summary of Duties: Maintain and automate software services controlling orbital satellite constellations; design telemetry processing scripts; build backend interfaces for spacecraft operators.
+Verified Job Posting Link: https://job-boards.greenhouse.io/planetlabs/jobs/8160328
